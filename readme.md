@@ -4,3 +4,6 @@
 
 - Run "**generate.cmd**"
 - Check the file the script has created on the __*list*__ directory.
+
+# Credits
+- [Randomuser API](https://randomuser.me/)
